@@ -1,0 +1,2 @@
+# QRRepair
+这是一个基于uni-app和SpringBoot+SpringSecurity+MyBatis的二维码报修系统。生成二维码相关的用的第三方库是：QuickMedia
